@@ -8,10 +8,10 @@ public class Ejercicio5 {
         Scanner sc = new Scanner(System.in);
         System.out.println("Este programa resuelve ecuaciones de primer grado del tipo ax + b = 0");
         System.out.println("Por favor, introduzca el valor de a: ");
-        int a = sc.nextInt();
+        float a = sc.nextFloat();
         System.out.println("Ahora introduzca el valor de b: ");
-        int b = sc.nextInt();
-        System.out.println("x = "+(a*x+b=0);
+        float b = sc.nextFloat();
+        System.out.println("x = "+(-b/a));
 
     }
 }
