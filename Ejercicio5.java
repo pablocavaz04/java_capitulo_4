@@ -12,6 +12,5 @@ public class Ejercicio5 {
         System.out.println("Ahora introduzca el valor de b: ");
         float b = sc.nextFloat();
         System.out.println("x = "+(-b/a));
-
     }
 }
